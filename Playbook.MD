@@ -20,46 +20,46 @@ Who will be buying your product or service? In which market sector or geography 
 
 ## Know your competitive landscape. Who are your competitors? Are they opponents or frenemies? What makes your product better?
 
-# Pick your open source license. You need a clear licensing model, and you need marketing materials to explain your licensing model to prospective adopters.
+## Pick your open source license. You need a clear licensing model, and you need marketing materials to explain your licensing model to prospective adopters.
 
-# Trademarks. 
+## Trademarks. 
 Perform trademark searches. File word mark and logo registrations in the places you will be selling.
 Create a trademark policy. Tell your community how you expect your name to be used.
 
-# Prepare CLAs. 
+## Prepare CLAs. 
 If you need to, get a CLA in place; consider how you will record contributors’ agreement to its terms. 
 
-# Adopt a code of conduct (COC).
+## Adopt a code of conduct (COC).
 Consider the Mozilla Community Participation Guidelines (https://www.mozilla.org/en-US/about/governance/policies/participation) or the Contributor Covenant (https://www.contributor-covenant.org). 
 
-# Patents. 
+## Patents. 
 Consider whether you need them. Don't seek patents just because you think all businesses need patnets. If you do, be sure your patent lawyer understands how your licensing model will affect your rights. 
 
-# Governance. 
+## Governance. 
 Be sure you know who will be the gatekeepers of your project and who will take over if they are not available. A single point of failure is not a good idea.
 
-# Commercial agreements. 
+## Commercial agreements. 
 Create those you need, such as maintenacne and support agreements, SaaS agreements, or commercial licenses
 
-# License FAQ. 
+## License FAQ. 
 If you are using a dual licensing or open core model, create a licensing FAQ.
 
-# Consider outside investment. 
+## Consider outside investment. 
 Plan your path to growth. Do you need outside investment to scale? Can you bootstrap your business? If so, how will limited capital limit your growth?
 
-# Due diligence. 
+## Due diligence. 
 Ensure you have no incompatible dependencies or upstream code contributions.
 Get proper IP agreemnts in place with founders and contractors. 
 If you did not write all your code from scratch, deal with any licensing issues.
 Make sure your code does not require a US export license, or other market-specifc regulatory requirements.
 
-# Add a copyright notice to your software 
+## Add a copyright notice to your software 
 (e.g., Copyright 2023–present Foobar, Inc.)
 
-# Sponsoring company. 
+## Sponsoring company. 
 Get any waivers or make any deals you need from your current employer.
 
-# Make your open source release. 
+## Make your open source release. 
 Segregate OSS and non-OSS in different repositories.
 Remove all comments in code that should not be public (including any personal information).
 Add your license files.
