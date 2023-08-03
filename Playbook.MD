@@ -18,9 +18,11 @@ Who will be the biggest participants in or cheerleaders for your product? How ca
 ## Know your customers. 
 Who will be buying your product or service? In which market sector or geography are they? How long is their sales cycle?
 
-## Know your competitive landscape. Who are your competitors? Are they opponents or frenemies? What makes your product better?
+## Know your competitive landscape. 
+Who are your competitors? Are they opponents or frenemies? What makes your product better?
 
-## Pick your open source license. You need a clear licensing model, and you need marketing materials to explain your licensing model to prospective adopters.
+## Pick your open source license. 
+You need a clear licensing model, and you need marketing materials to explain your licensing model to prospective adopters.
 
 ## Trademarks. 
 Perform trademark searches. File word mark and logo registrations in the places you will be selling.
