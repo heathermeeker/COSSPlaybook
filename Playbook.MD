@@ -10,10 +10,10 @@ How will you tell the world about your product, in a few words? Many software de
 Good documentation is one of the features that separates hobby projects from professional projects. Put enough effort into your documentation to make sure that new community members know how to work with you and with your product. Documentation is also a good way to involve non-technical contributors in your project.
 
 ## Know your business model. 
-What are you selling, and what are you giving away? How will you price your products or services? What are your revenue targets?
+What are you selling, and what are you giving away? How will you price your products or services? What are your revenue targets? <!-- question: how far in time should we go in that revenue projections?  -->
 
 ## Know your community. 
-Who will be the biggest participants or cheerleaders for your product? How can you help them?
+Who will be the biggest participants or cheerleaders for your product? How can you help them? <!-- Here, Open Source has the best experience. More details around the building blocks required to grassrooting community would be really worthy -->
 
 ## Know your customers. 
 Who will be buying your product or service? In which market sector or geography are they? How long is their sales cycle?
@@ -47,7 +47,7 @@ Create those you need, such as maintenance and support agreements, SaaS agreemen
 If you are using a dual licensing or open core model, create a licensing FAQ.
 
 ## Consider outside investment. 
-Plan your path to growth. Do you need outside investment to scale? Can you bootstrap your business? If so, how will limited capital limit your growth?
+Plan your path to growth. Do you need outside investment to scale? Can you bootstrap your business? If so, how will limited capital limit your growth? <!-- question: how does this work in OS? -->
 
 ## Due diligence. 
 Ensure you have no incompatible dependencies or upstream code contributions.
@@ -62,7 +62,7 @@ Make sure your code does not require a US export license or other market-specifi
 Get any waivers or make any deals you need from your current employer.
 
 ## Make your open source release. 
-Segregate OSS and non-OSS in different repositories.
+Segregate OSS and non-OSS in different repositories. <!-- What is the best way to arrange the config OSS - non-OSS for a company that wants to live these two lives? How to conceal, strategically speaking, OSS purposes, specially those related to community building, with hard-core business goals, including opening the door to the harsh world of VC funding  -->
 Remove all comments in code that should not be public (including any personal information).
 Add your license files.
 Post your CoC.
